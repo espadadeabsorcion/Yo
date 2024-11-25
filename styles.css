@@ -73,3 +73,8 @@ img {
     width: 25%;
     height: 25%;
 }
+
+button{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}

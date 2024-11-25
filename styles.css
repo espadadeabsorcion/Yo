@@ -74,6 +74,10 @@ img {
     height: 25%;
 }
 
+.menu{
+    text-align: center;
+}
+
 a{
     color: white;
     font-family: 'Times New Roman', Times, serif;

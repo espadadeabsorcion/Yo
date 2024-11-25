@@ -74,8 +74,13 @@ img {
     height: 25%;
 }
 
-button{
+a{
     color: white;
     font-family: 'Times New Roman', Times, serif;
     background-color: black;
+    text-align: center;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-left-color: rgb(157, 141, 24);
+    border-right-color: rgb(157, 141, 24);
 }
